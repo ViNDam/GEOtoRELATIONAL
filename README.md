@@ -6,6 +6,7 @@ This code download GEO data (including soft files, series matrix files, xml.tgz 
 This program requires datamash installation and works on MAC Terminal only
 
 ## USAGE
+The user needs to unzip the Ontology files before using these codes. 
 
 sh command.sh GSEList
 sh inputDDLandDMLToMysql.sh
