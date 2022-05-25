@@ -1,5 +1,5 @@
 # GEOtoRELATIONAL
-This code download GEO data (including soft files, series matrix files, xml.tgz files) from Series list, clean data and convert into relational database
+This code download GEO data (including soft files, series matrix files, xml.tgz files) from Series list. Then, it cleans, extracts data and converts into a relational SQL database.
 
 ## INSTALLATION
 
